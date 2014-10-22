@@ -1,3 +1,4 @@
+http://google-styleguide.googlecode.com/svn/trunk/cppguide.html
 1. Load Map
 2. Load PC
 3. Moving
