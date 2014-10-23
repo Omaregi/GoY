@@ -23,5 +23,7 @@ int main()
         window.display();
     }
 
+    std::cout << "hi" << std::endl;
+
     return 0;
 }
